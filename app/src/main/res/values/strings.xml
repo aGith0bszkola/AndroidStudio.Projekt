@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">flaga</string>
+    <string name="polecenie">choose the colores that are not on the polish flag!</string>
 </resources>
